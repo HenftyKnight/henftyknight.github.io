@@ -19,5 +19,12 @@
     <author>Author</author>
     <guid>https://henftyknight.github.io/posts/first_post/</guid>
     <description><![CDATA[Commit Message was seen lol]]></description>
+</item><item>
+    <title></title>
+    <link>https://henftyknight.github.io/posts/secondpost/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://henftyknight.github.io/posts/secondpost/</guid>
+    <description><![CDATA[Second Post]]></description>
 </item></channel>
 </rss>
